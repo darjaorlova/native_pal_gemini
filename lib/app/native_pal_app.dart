@@ -7,10 +7,10 @@ class NativePalApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Native Oal',
+      title: 'Native Pal',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.pink),
-        useMaterial3: true,
+        useMaterial3: false,
       ),
       home: const CharacterPage(),
     );
