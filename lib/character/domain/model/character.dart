@@ -1,0 +1,4 @@
+enum Character {
+  daria,
+  gato,
+}

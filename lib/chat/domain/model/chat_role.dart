@@ -1,0 +1,1 @@
+enum ChatRole { pal, user }
